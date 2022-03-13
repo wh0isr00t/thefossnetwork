@@ -1,0 +1,30 @@
+* {
+    color: #999999;
+    background: #000000;
+    font-family: fantasy;
+}
+
+h1 {
+    color: #4bef8e;
+    background-color: #3e9fff;
+    text-align: center;
+}
+
+h2 {
+    color: #3e9fff;
+    background-color: #4bef8e30;
+    text-align: center;
+}
+
+p {
+    
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
